@@ -1,0 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "cli based weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "shivam arora",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
