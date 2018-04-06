@@ -18,7 +18,7 @@
 
 ## Options:
 
---version | Show version number |Type
+--version | Description |Type
 --- | --- | ---         
 -a, --address | Address to fetch weather for | [string] [required]
 --help,-h | Show help | [boolean]
